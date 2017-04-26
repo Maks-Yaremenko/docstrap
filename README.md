@@ -86,7 +86,7 @@ DocStrap ships with a `conf.json` file in the template/ directory. It is just a 
 	"outputSourcePath"      : "{boolean}",
 	"dateFormat"            : "{string}",
 	"syntaxTheme"           : "{string}",
-	"sort"					: "{boolean|string}",
+	"sort"			: "{boolean|string}",
 	"search"                : "{boolean}" 
 }
 
